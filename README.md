@@ -7,3 +7,5 @@ For the past thirteen years worked from small to big companies like [Vinted](htt
 Worked at [Treatwell](https://www.treatwell.co.uk/) to create the perfect hair and beauty experience by seamlessly connecting customers with the right expert, where not only covered business feature creation but also was Design System field leader :rocket:.
 
 Currently working for [Argyle](https://www.argyle.com/) that provides a single global access point to employment data.
+
+[![](https://visitcount.itsvg.in/api?id=moriko&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
