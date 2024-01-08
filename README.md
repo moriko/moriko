@@ -1,9 +1,7 @@
 ![Lost in Time and Space](https://res.cloudinary.com/dglxo7mmd/image/upload/v1599473657/Logos/github-img_qjlfy2.png)
 
-I’m an interdisciplinary [Front-End Engineer](https://lt.linkedin.com/in/irasikaite/) from Lithuania, who's in love with the design and technologies.
+I’m an [UX Engineer](https://lt.linkedin.com/in/irasikaite/) from Lithuania, with a passion for design and technology.
 
-For the past thirteen years worked from small to big companies like [Vinted](https://www.vinted.com/), and [1stDibs](https://www.1stdibs.com/) where concentrated to make best UX for user to search and browse for the most beautiful things on earth, also worked on creating design system.
+For the past 15+ years, I have worked at both small startups and large companies like [Vinted](https://www.vinted.com/), [1stDibs](https://www.1stdibs.com/) and [Treatwell](https://www.treatwell.co.uk/), focusing on creating the best user experience, where I not only led the development of key business features but also served as Design System field leader :rocket:.
 
-Worked at [Treatwell](https://www.treatwell.co.uk/) to create the perfect hair and beauty experience by seamlessly connecting customers with the right expert, where not only covered business feature creation but also was Design System field leader :rocket:.
-
-Currently working for [Argyle](https://www.argyle.com/) that provides a single global access point to employment data.
+Currently working for [Argyle](https://www.argyle.com/) which provides global access to employment data, developing an enterprise-grade, web-based tool to test, launch, and manage payroll connectivity experiences.
