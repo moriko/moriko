@@ -8,4 +8,4 @@ Over the years, I’ve led feature development from idea to launch, collaborated
 
 For the past 15+ years, I have worked at both small startups and large companies like [Vinted](https://www.vinted.com/), [1stDibs](https://www.1stdibs.com/), [Treatwell](https://www.treatwell.co.uk/) and [Argyle](https://www.argyle.com/), where I not only led the development of key business features but also served as Design System field leader :rocket:.
 
-Now, I’m evolving into a Product Engineer role — where my technical depth and product thinking can create even greater outcomes. I’m excited to bring my skills to the [BBright](bbright.lt) team, where I believe we can make a real difference in the lives of students and teachers.
+Now, I’m evolving into a Product Engineer role — where my technical depth and product thinking can create even greater outcomes. I’m excited to bring my skills to the [BBright](https://bbright.lt) team, where I believe we can make a real difference in the lives of students and teachers.
